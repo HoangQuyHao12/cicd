@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\C#\ontap\bin\Debug\net6.0\ontap.exe
+C:\Users\Admin\Documents\C#\ontap\bin\Debug\net6.0\ontap.deps.json
+C:\Users\Admin\Documents\C#\ontap\bin\Debug\net6.0\ontap.runtimeconfig.json
+C:\Users\Admin\Documents\C#\ontap\bin\Debug\net6.0\ontap.dll
+C:\Users\Admin\Documents\C#\ontap\bin\Debug\net6.0\ontap.pdb
+C:\Users\Admin\Documents\C#\ontap\obj\Debug\net6.0\ontap.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C#\ontap\obj\Debug\net6.0\ontap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C#\ontap\obj\Debug\net6.0\ontap.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C#\ontap\obj\Debug\net6.0\ontap.AssemblyInfo.cs
+C:\Users\Admin\Documents\C#\ontap\obj\Debug\net6.0\ontap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C#\ontap\obj\Debug\net6.0\ontap.dll
+C:\Users\Admin\Documents\C#\ontap\obj\Debug\net6.0\refint\ontap.dll
+C:\Users\Admin\Documents\C#\ontap\obj\Debug\net6.0\ontap.pdb
+C:\Users\Admin\Documents\C#\ontap\obj\Debug\net6.0\ontap.genruntimeconfig.cache
+C:\Users\Admin\Documents\C#\ontap\obj\Debug\net6.0\ref\ontap.dll
